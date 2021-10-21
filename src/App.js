@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h2>Landon Hotel Reservations</h2>
+      <h2>Landon Hotel Mangement</h2>
     </div>
   );
 }
